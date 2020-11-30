@@ -814,7 +814,7 @@
                             </tr>
 
                             <tr >
-                                <td class="i" width="32%">
+                                <td width="32%">
                                     ALREADY UPLOADED SIGNATURE: </td>
                                 <td input type="text" size="15"></td>
                             </tr>
